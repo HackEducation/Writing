@@ -3,7 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Hack Education"
+title: "The Best of Hack Education"
 description: > # this means to ignore newlines until "email:"
    The History of the Future of Education Technology
 
